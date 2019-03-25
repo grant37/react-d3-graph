@@ -64,8 +64,9 @@ typings/
 # End of https://www.gitignore.io/api/node
 
 # Project stuff
-dist
-lib
+# Commenting out in order to use via npm install
+# dist
+# lib
 coverage
 gen-docs
 .DS_Store
